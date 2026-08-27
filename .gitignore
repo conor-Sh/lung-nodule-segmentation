@@ -1,0 +1,11 @@
+#Python
+__pycache__/
+*.py[cod]
+
+#Model Checkpoints
+outputs/checkpoints
+src/outputs/checkpoints
+
+#visual outputs
+outputs/visuals/
+src/outputs/visuals/
